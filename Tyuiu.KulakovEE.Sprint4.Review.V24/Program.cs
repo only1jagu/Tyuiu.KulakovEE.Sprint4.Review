@@ -15,7 +15,6 @@ namespace Tyuiu.KulakovEE.Sprint4.Review.V24
             Console.Title = "СпринтРевью #4 | Выполнил: Кулаков Е.Е. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*Спринт #4                                                                *");
-            Console.WriteLine("*Задание #Review                                                          *");
             Console.WriteLine("*Вариант #24                                                              *");
             Console.WriteLine("*Выполнил: Кулаков Е.Е. | АСОиУб-23-1                                     *");
             Console.WriteLine("***************************************************************************");
